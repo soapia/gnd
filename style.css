@@ -1,0 +1,51 @@
+body {
+  background-color: #F0FFD7;
+  color: #263F02;
+  
+}
+
+footer {
+  background-color: #263F02;
+  color: #F0FFD7;
+  margin-top: 2em !important;
+  text-align: center;
+}
+
+footer .a {
+  color: #F0FFD7 !important;
+}
+
+h1, p {
+  text-align: center;
+  margin: 1em;
+}
+
+p {
+  font-size: 1em;
+}
+
+.btn-primary {
+  background-color: #8562D6;
+  color: #F0FFD7;
+  font-weight: bold;
+  padding: 1em 2em 1em 2em;
+  border: none;
+  position: relative;
+  margin: 0 auto;
+}
+
+.btn-primary:hover {
+  background-color: #82d804;
+}
+
+form {
+  margin: 1em;
+}
+
+form .btn {
+  display: flex;
+/*   align-items: center;
+  justify-content: center;
+  text-align: center */
+}
+

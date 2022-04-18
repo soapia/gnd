@@ -49,14 +49,6 @@ var houseData = {
     "unsigned": "",
     "opponent": ""
   },
-  "CA-2": {
-    "state": "CA",
-    "district": 2,
-    "email": "casey.maclean@mail.house.gov",
-    "name": "Rep. Jared Huffman",
-    "unsigned": "",
-    "opponent": ""
-  },
   "CA-3": {
     "state": "CA",
     "district": 3,
@@ -903,14 +895,6 @@ var houseData = {
     "email": "ryan.houlihan@mail.house.gov",
     "name": "Rep. Dean Phillips",
     "unsigned": "",
-    "opponent": ""
-  },
-  "MN-4": {
-    "state": "MN",
-    "district": 4,
-    "email": "libby.foley@mail.house.gov",
-    "name": "Rep. Betty McCollum",
-    "unsigned": "GND4PS, GND4PH, CCC, BUILD_GREEN",
     "opponent": ""
   },
   "MO-5": {
